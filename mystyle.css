@@ -7,6 +7,9 @@ body {
 }
 
 #paragraphstyle {
+	background-image: url(micron_pen_eyeflower.jpeg);
+	background-position: right bottom;
+	background-repeat: no-repeat;
 	border-radius: 25px;
 	border: 10px solid black;
 	margin: 20px;
