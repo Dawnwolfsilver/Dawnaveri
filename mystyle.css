@@ -15,7 +15,15 @@ body {
 	text-align: center;
 	color:#5c2f2f;
 }
-
+img {
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+	width: 150px;
+}
+img:hover {
+	box-shadow: 2px 1px 
+}
 ol {
 	list-style-type: none;
 	margin: 10px;
