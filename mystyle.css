@@ -4,6 +4,8 @@ body {
 	margin: 60px;
 	background-color:#1ebbcc}
 #paragraphstyle {
+	border: 10px solid black;
+	margin: 20px;
 	text-align: center;
 	color:#5c2f2f;
 }
