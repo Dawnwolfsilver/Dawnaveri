@@ -2,7 +2,8 @@ body {
 	background-color:#FFFFFF}
 #averyname {
 	margin: 60px;
-	background-color:#1ebbcc
+	background-color:#1ebbcc;
+	text-align: center;
 }
 
 #paragraphstyle {
