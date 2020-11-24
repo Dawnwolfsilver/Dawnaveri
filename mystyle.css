@@ -6,8 +6,10 @@ body {
 	background-color:#FFFFFF}
 h1 {
 	background-color:#1ebbcc}
-p {
-	color:#5c2f2f}
+#paragraphstyle {
+	text-align: center;
+	color:#5c2f2f;
+}
 
 ol {
 	list-style-type: none;
