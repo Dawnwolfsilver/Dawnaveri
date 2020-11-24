@@ -2,9 +2,12 @@
 
 @media (max-width : 1067px ){
 }
-body { background-color:#FFFFFF}
-h1 {background-color:#981ECC}
-p {color:#E81114}
+body {
+	background-color:#FFFFFF}
+h1 {
+	background-color:#981ECC}
+p {
+	color:#E81114}
 
 .symbolavery{
 	width:50px;
