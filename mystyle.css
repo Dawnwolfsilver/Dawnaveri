@@ -4,7 +4,8 @@
 }
 body {
 	background-color:#FFFFFF}
-h1 {
+#averyname {
+	margin: 60px;
 	background-color:#1ebbcc}
 #paragraphstyle {
 	text-align: center;
