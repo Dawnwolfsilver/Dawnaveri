@@ -6,6 +6,7 @@ body {
 }
 
 #paragraphstyle {
+	border-radius: 25px;
 	border: 10px solid black;
 	margin: 20px;
 	padding: 15px;
