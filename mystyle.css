@@ -2,7 +2,9 @@ body {
 	background-color:#FFFFFF}
 #averyname {
 	margin: 60px;
-	background-color:#1ebbcc}
+	background-color:#1ebbcc
+}
+
 #paragraphstyle {
 	border: 10px solid black;
 	margin: 20px;
@@ -26,8 +28,8 @@ li a {
 	text-align: center;
 	padding: 16px;
 	text-decoration: none;
-
 }
+
 li a:hover {
 	background-color: #AF16DB
 }
